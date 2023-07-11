@@ -1,7 +1,7 @@
 # SQuAD-es-dist
-SquAD-es-dist is a small scale MCQ dataset based on SQuAD-es with distractors included from the same text. 
+__SquAD-es-dist__ is a small scale MCQ dataset based on SQuAD-es with distractors included from the same text. 
 
-SQuAD-es-dist contains texts from the dataset SQuAD-es that can be found in the [Translate-Align-Retrieve](https://github.com/ccasimiro88/TranslateAlignRetrieve) repository.
+__SQuAD-es-dist__ contains texts from the dataset SQuAD-es that can be found in the [Translate-Align-Retrieve](https://github.com/ccasimiro88/TranslateAlignRetrieve) repository.
 
 A question, correct answer and distractors were then manually tagged for 980 questions using the [Textinator](https://github.com/dkalpakchi/Textinator) tool.
 
