@@ -21,7 +21,7 @@ This repository has the data split in training, development and test set, in app
 | \|Len(A) - Len(D)\|      | 1.69 +- 2.28       | 2.08 +- 2.52       | 1.85 +- 2.00    |
 | Max(\|Len(A) - Len(D)\|) | 16.666666666666668 | 10.333333333333334 | 8.0             |
 
-The respository also contains a ChatGPT prompt that was used to aid the tagger in the task of tagging. The results from ChatGPT were far from perfect, but served as a great starting point to find a plausible question, correct answer and distractors. 
+The respository also contains a ChatGPT prompt that was used to aid the tagger in the task of tagging. The results from ChatGPT were far from perfect, but served as a great starting point to find a plausible question, correct answer and distractors for texts. 
 
 The data was used to fine-tune a BERT model for distractor generations. Details can be found in the [SweQUAD-MC](https://github.com/dkalpakchi/SweQUAD-MC) respository to fine-tune a BERT model for distractor generations. The Spanish BERT used for distractor generation __SQuAD-es-dist__ was [BETO](https://github.com/dccuchile/beto).
 
